@@ -1,2 +1,2 @@
-# Greedy_snake
+# Practice
 A small project using windows api. 
